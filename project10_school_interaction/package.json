@@ -1,0 +1,18 @@
+{
+  "name": "oop-project-10",
+  "version": "1.0.0",
+  "description": "cli project with typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hammad",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^10.1.6"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
